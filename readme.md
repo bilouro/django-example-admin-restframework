@@ -13,6 +13,6 @@ Simple django + Admin + Rest example project
 
 * python manage.py createsuperuser
 
-* python manage.py makemigrations <app_name>
+* python manage.py makemigrations orderbackoffice
 
 * python manage.py migrate
